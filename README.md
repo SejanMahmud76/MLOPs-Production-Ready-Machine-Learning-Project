@@ -20,3 +20,10 @@ git commit -m "Updated"
 
 git push origin main
 ```
+
+## Create Environment
+```bash
+cd "C:\Users\sejan\Downloads\Mlops Project\MLOPs-Production-Ready-Machine-Learning-Project"
+conda create -n UsVisa python=3.8 -y
+conda activate UsVisa
+```
