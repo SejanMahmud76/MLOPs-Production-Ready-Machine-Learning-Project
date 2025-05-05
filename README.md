@@ -33,3 +33,5 @@ conda activate UsVisa
 ## WorkFlow
 
 1. Constants
+
+2. Entity
