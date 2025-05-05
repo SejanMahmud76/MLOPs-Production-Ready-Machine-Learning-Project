@@ -35,3 +35,7 @@ conda activate UsVisa
 1. Constants
 
 2. Entity
+
+3. Components
+
+4. pipelines
