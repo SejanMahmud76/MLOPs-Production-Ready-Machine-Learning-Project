@@ -27,3 +27,9 @@ cd "C:\Users\sejan\Downloads\Mlops Project\MLOPs-Production-Ready-Machine-Learni
 conda create -n UsVisa python=3.8 -y
 conda activate UsVisa
 ```
+
+
+
+## WorkFlow
+
+1. Constants
